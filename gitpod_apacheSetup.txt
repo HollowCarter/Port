@@ -12,3 +12,5 @@ Steps to set appache and serve
     </Directory>
 
 3. in terminal type "apachectl restart" and enter. Open in browser.
+
+from https://github.com/iceaxeliehne/ArtistPortfolio
