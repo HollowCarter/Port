@@ -1,3 +1,2 @@
 # Port
-testin3
-dhuidgodugh8ogyre
+familiarising myself with GitHub
